@@ -87,7 +87,9 @@ The dashboard provides analysis across:
 
 ## 📸 Dashboard Preview
 
-Dashboard screenshots will be added here.
+### Customer Complaint & Service Analytics Dashboard
+
+![Customer Complaint & Service Analytics Dashboard](Screenshots/01_Customer_Complaint_Dashboard.png)
 
 ## 📚 Skills Demonstrated
 
